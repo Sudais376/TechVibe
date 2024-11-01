@@ -104,7 +104,7 @@ const Features = () => {
             >
               <img
                 className="rounded-md h-[350px] object-cover transform transition duration-300 hover:scale-105"
-                src="/assets/cardintegration.png"
+                src="/assets/CardInteg.png"
                 width={400}
                 alt=""
               />
